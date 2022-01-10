@@ -1,0 +1,175 @@
+body{
+    font-family: sans-serif Poppins;
+    
+}
+.mian-one{
+ width: 100%;
+ border-left: 3px solid rgba(250, 6, 6, 0.664);
+padding: 3px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.stay{
+width: 50%;
+}
+.focus{
+    width: 50%;
+}
+.orange{
+color:orange;
+
+}
+
+.first-line{
+    display: flex;
+    padding: 20px;
+}
+.focus{
+
+width: 50%;
+
+
+}
+.image{
+    width: 100%;
+    background-size: cover;
+    
+}
+.button{
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 5px 15px;
+    box-shadow: red 2px saddlebrown;
+
+
+}
+.mission{
+
+font-size: 50px;
+text-align: center;
+
+}
+.midle{
+  
+    width: 70%;
+    display: flex;
+    text-align: center;
+    margin-left: 140px;
+}
+.midle-one{
+    border-radius: 5%;
+    padding: 20px;
+width: 33%;
+background-color: rgba(95, 71, 71, 0.911);
+margin-left: 50px;
+
+}
+.midle-two{
+    border-radius: 5%;
+    padding: 20px;
+    width: 33%;
+    margin-left: 25px;
+    background-color: rgba(80, 73, 64, 0.918);
+}
+
+.midle-third{
+    margin-left: 25px;
+    padding: 20px;
+    border-radius: 5%;
+    width: 33%;
+    background-color: rgba(216, 206, 187, 0.815);
+}
+.icon{
+    width:40%;
+    height: 25%;
+    background-size: cover;
+}
+.midle-point{
+ 
+}
+.heading{
+    font-size: 50px;
+}
+.button-2{
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 5px 15px;
+    box-shadow: rgba(231, 158, 21, 0.952) 2px saddlebrown;
+    border-radius: 5%;
+
+}
+.midle-two-part{
+    display: flex;
+    padding: 50px;
+    margin-left: 150px;
+}
+.project{
+    width: 50%;
+    background-size: cover;
+    margin-left: 40px;
+}
+.main-midle-part{
+    display: flex;
+    padding: 100px;
+    margin-left: 150px;
+}
+.image-1{
+    width:65%;
+    background-size: cover;
+}
+.button-3{
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 5px 15px;
+    box-shadow: rgba(231, 158, 21, 0.952) 2px saddlebrown;
+    border-radius: 5%;
+ 
+}
+.main-part-left{
+    margin-right: 260px;
+}
+.left-part{
+
+font-size: 50px;
+
+
+}
+.corona{
+    font-size: 50px;
+    text-align: center;
+}
+.button-3{
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 5px 15px;
+    box-shadow: rgba(231, 158, 21, 0.952) 2px saddlebrown;
+    border-radius: 5%;
+ 
+}
+.corona-image{
+    width: 50%;
+    background-size: cover;
+}
+.fotter{
+    display: flex;
+    margin-left: 250px;
+}
+.corona-stay{
+    font-size: 50px;
+}
+.stay-safe{
+    margin-right: 150px;
+}
+.mission-last{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.863);
+    background-color: black;
+    padding: 10px;
+}
+.mission-last-one{
+    font-family: 'Brush Script MT',cursive;
+}
